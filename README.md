@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Pratik-Mogal
+- 👀 I’m interested in Software Developement , Data Science , New Software Technologies , Problem Solving and Product Managment
+- 🌱 I’m currently working as a System Engineer and I’m looking to collaborate on New and latest software development technologies, and SDLC(Life Cycle)
+- My Technology stack/skills include: ▪ Programming Languages: Java, Python, C ▪ Technologies : HTML5, CSS3, ▪ Tools: PostGre SQL , PgAdmin4, IntelliJ , Visual Studio Code, SublimeText 3, Adobe XD, Figma ▪ Version control tools: Git, GitBash ▪ Database: SQL MySQL, MongoDB ▪ Cloud: Google Cloud Platform
