@@ -1,4 +1,12 @@
-- 👋 Hi, I’m @Pratik-Mogal
-- 👀 I’m interested in Software Developement , Data Science , New Software Technologies , Problem Solving and Product Managment
-- 🌱 I’m currently working as a System Engineer and I’m looking to collaborate on New and latest software development technologies, and SDLC(Life Cycle)
-- My Technology stack/skills include: ▪ Programming Languages: Java, Python, C ▪ Technologies : HTML5, CSS3, ▪ Tools: PostGre SQL , PgAdmin4, IntelliJ , Visual Studio Code, SublimeText 3, Adobe XD, Figma ▪ Version control tools: Git, GitBash ▪ Database: SQL MySQL, MongoDB ▪ Cloud: Google Cloud Platform
+👀I am a Data Engineer Enthusiast with extensive experience in Data building Big Data systems to provide a Unified Analytics Platform for Batch & real time Streaming data
+With expertise in conceptualizing and implementing data pipelines, I am responsible for converting data into informational insights thus helping the organization to make data-driven decisions.
+🌱 Key Competencies:
+➡️ Designing Big Data ETL Pipelines
+➡️ Refine data lake for Business Reporting
+➡️ Building a Unified Analytics Platform - Visual Board, Data Fusion
+➡️ Design Thinking
+➡️ Optimize the Job Execution Time
+➡️ Strategy Planning and Implementation
+➡️ Communication
+☑️ Technologies:
+➡️ Google Cloud Platform(GCP), Spark, Python, Cloud Storage Data Lake , BigQuery, Dataflow, DataProc, Kubernetes, Kafka, Apache Spark Streaming.
