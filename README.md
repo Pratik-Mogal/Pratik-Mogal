@@ -1,12 +1,10 @@
-👀I am a Data Engineer Enthusiast with extensive experience in Data building Big Data systems to provide a Unified Analytics Platform for Batch & real time Streaming data
-With expertise in conceptualizing and implementing data pipelines, I am responsible for converting data into informational insights thus helping the organization to make data-driven decisions.
+👀I am a GCP Data Engineer with extensive experience in design,architect and building Big Data processing batch and streaming data pipelines inside GCP
+With expertise in conceptualizing and implementing data pipelines.
 🌱 Key Competencies:
-➡️ Designing Big Data ETL Pipelines
-➡️ Refine data lake for Business Reporting
-➡️ Building a Unified Analytics Platform - Visual Board, Data Fusion
-➡️ Design Thinking
-➡️ Optimize the Job Execution Time
-➡️ Strategy Planning and Implementation
+➡️ Build batch ETL Pipelines
+➡️ Orchestrate and Monitor the jobs in Apache Airflow
+➡️ Perform ETL Processing in dataflow
+➡️ perform analytical data processsing in bigquery
 ➡️ Communication
 ☑️ Technologies:
-➡️ Google Cloud Platform(GCP), Spark, Python, Cloud Storage Data Lake , BigQuery, Dataflow, DataProc, Kubernetes, Kafka, Apache Spark Streaming.
+➡️ Google Cloud Platform(GCP), Python, Google Cloud Storage(GCS) GCS, BigQuery, Dataflow, DataProc, Cloud Composer, Kubernetes,Apache Kafka, Apache Spark, Apache Airflow
